@@ -11,7 +11,6 @@
   inputs.src-des-master.ref   = "refs/heads/master";
   inputs.src-des-master.owner = "LucaWolf";
   inputs.src-des-master.repo  = "des.nim";
-  inputs.src-des-master.dir   = "";
   inputs.src-des-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
