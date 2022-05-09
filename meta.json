@@ -7,7 +7,7 @@
   "url": "https://github.com/LucaWolf/des.nim",
   "method": "git",
   "refs": [
-    "fatal: unable to access 'https://github.com/LucaWolf/des.nim/': SSL connection timeout",
+    "fatal: unable to access 'https://github.com/LucaWolf/des.nim/': Could not resolve host: github.com",
     ""
   ],
   "heads": []
